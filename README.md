@@ -84,3 +84,6 @@ This project utilizes **GitHub Actions** for Continuous Integration and Continuo
 2. Checks out the latest codebase.
 3. Securely authenticates with the target AWS EC2 instance via SSH keys.
 4. Pulls the latest code, tears down the old Docker containers, and spins up the updated environment with zero manual intervention.
+
+## DEMO VIDEO LINK
+[text](https://drive.google.com/file/d/1_EptAAtoPZ9O1H3jqQQxYMF1xjYfO8nB/view?usp=sharing)
